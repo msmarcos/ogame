@@ -1,0 +1,4 @@
+ogame
+=====
+
+script de ogame
